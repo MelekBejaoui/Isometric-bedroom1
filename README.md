@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Blender-4.x-orange?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Blender-5.2%20LTS-orange?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/Render-Cycles-blue?style=for-the-badge" alt="Cycles"/>
   <img src="https://img.shields.io/badge/Style-Low%20Poly%20%2F%20Cartoon-brightgreen?style=for-the-badge" alt="Low Poly"/>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status"/>
@@ -69,7 +69,7 @@ IsometricRoom Project/
 
 ### Prerequisites
 
-- [Blender](https://www.blender.org/download/) **4.x** or later (compatible with 3.x+)
+- [Blender](https://www.blender.org/download/) **5.2 LTS**
 
 ### Opening the Project
 
